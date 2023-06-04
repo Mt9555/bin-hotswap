@@ -1,0 +1,9 @@
+Aims to automate the relaunching process whenever a replacement binary is created.
+Ex. USE case --> monitor build output directory and automatically relaunch the test executable whenever a new build is generated.
+
+detect the creation of a new replacement binary
+File Transformation or Processing
+Hot Reloading in Development
+Log File Analysis
+
+...inprogress
